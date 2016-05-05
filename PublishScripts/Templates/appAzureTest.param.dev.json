@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "appAzureTestVarun"
+  },
+  "hostingPlanName": {
+    "value": "ToDoApp31bf"
+  },
+  "siteLocation": {
+    "value": "South Central US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "todoapp31bf-server"
+  },
+  "serverLocation": {
+    "value": "North Europe"
+  },
+  "administratorLogin": {
+    "value": "vasisht"
+  },
+  "administratorLoginPassword": {
+    "value": "j@t@yu420"
+  },
+  "databaseName": {
+    "value": "appAzureTestVarun_db"
+  }
+}
